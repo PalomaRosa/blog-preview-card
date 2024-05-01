@@ -4,11 +4,9 @@ Este é um projeto simples desenvolvido praticar algumas habilidades de CSS e HT
 
 O projeto foi implementado com base no desafio proposto pelo frontendmentor.io.
 
-## Imagens
-
 ## Como verificar
 
-1. Acesse o link: 
+1. Acesse o link: https://palomarosa.github.io/blog-preview-card/
 
 ## Tecnologias Utilizadas
 
